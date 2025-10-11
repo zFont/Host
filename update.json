@@ -1,0 +1,10 @@
+{
+    "title": "🎉 zFont 3.7.4 Update Available!",
+    "message": "**16/07/2024 [3.7.4]**\n- Fixed crash on some devices!\n\n**15/07/2024 [3.7.3]**\n- Added support for KernelSU & APatch\n- Updated module scripts (Thanks @MrCarb0n)\n- Renamed Magisk module to Systemless module\n- Fixed 'Unsafe app blocked'\n- Updated Samsung Sans",
+    "download_url": "https://zfont.app/#downloads",
+    "package_name": "com.htetznaing.zfont2",
+    "hash": "01:BC:57:16:7A:13:1B:7F:E8:89:07:5D:99:3D:1B:77:79:7D:3C:99:38:2B:16:7A:11:70:AB:05:67:8F:A0:43",
+    "version_name": "3.7.4",
+    "version_code": 76,
+    "is_force": false
+}
