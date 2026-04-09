@@ -1,10 +1,10 @@
 {
-  "title": "🎉 zFont 3.9.2.1 Update Available!",
-  "message": "**25/11/2025 [3.9.2.1]**\n- Added Samsung One UI 8 support without Shizuku\n(You may need to install the font package.)\n- Updated dependencies\n- Fixed download-related bugs",
+  "title": "🎉 zFont 3.9.2.2 Update Available!",
+  "message": "**09/04/2026 [3.9.2.2]**\n- Fix Exclusive Fonts compatibility on newer OneUI 8 and 8.5\n- Add downloaded fonts to Global Search results\n- Update SDKs",
   "download_url": "https://zfont.app/#downloads",
   "package_name": "com.htetznaing.zfont2",
   "hash": "01:BC:57:16:7A:13:1B:7F:E8:89:07:5D:99:3D:1B:77:79:7D:3C:99:38:2B:16:7A:11:70:AB:05:67:8F:A0:43",
-  "version_name": "3.7.2.1",
-  "version_code": 92,
+  "version_name": "3.9.2.2",
+  "version_code": 93,
   "is_force": true
 }
